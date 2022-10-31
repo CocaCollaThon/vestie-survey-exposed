@@ -1,2 +1,2 @@
-# vestie-servey-exposed
-vestie servey exposed service
+# vestie-survey-exposed
+vestie survey exposed service

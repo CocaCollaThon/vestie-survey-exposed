@@ -1,11 +1,11 @@
-package vestie.serveyexposed
+package vestie.surveyexposed
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class ServeyExposedApplication
+class SurveyExposedApplication
 
 fun main(args: Array<String>) {
-	runApplication<ServeyExposedApplication>(*args)
+	runApplication<SurveyExposedApplication>(*args)
 }
